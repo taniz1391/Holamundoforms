@@ -1,0 +1,51 @@
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe.config
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.pdb
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csprojResolveAssemblyReference.cache
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Properties.Resources.resources
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csproj.GenerateResource.Cache
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.exe
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.pdb
+c:\users\daftniel\documents\visual studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FrmPrincipal.resources
+C:\Users\Daftniel\Documents\Visual Studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FormLogin.resources
+C:\Users\Daftniel\Documents\Visual Studio 2013\Projects\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.frmNuevoUsuario.resources
+E:\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe.config
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.exe
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.pdb
+E:\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe
+E:\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.pdb
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csprojResolveAssemblyReference.cache
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FormLogin.resources
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.frmNuevoUsuario.resources
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FrmPrincipal.resources
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Properties.Resources.resources
+E:\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csproj.GenerateResource.Cache
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe.config
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.exe
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.pdb
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.pdb
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csprojResolveAssemblyReference.cache
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FormLogin.resources
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.frmNuevoUsuario.resources
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FrmPrincipal.resources
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Properties.Resources.resources
+E:\UNID\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csproj.GenerateResource.Cache
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe.config
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.exe
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.pdb
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.exe
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\bin\Debug\Holamundoforms.pdb
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csprojResolveAssemblyReference.cache
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Catalogos.Form1Productos.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FormLogin.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.frmNuevoUsuario.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.FrmPrincipal.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Properties.Resources.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.csproj.GenerateResource.Cache
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Catalogos.Proveedores.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Catalogos.Sucursales.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Catalogos.CLIENTES.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Cat_usuarios.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.Gui.menu.MENU.resources
+d:\Users\TANI AYALA\Desktop\PROGRAMACION\Holamundoforms\Holamundoforms\obj\Debug\Holamundoforms.almacen.resources
